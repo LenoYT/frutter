@@ -1,0 +1,12 @@
+name: Frutter
+version: '1.0-SNAPSHOT'
+main: pl.supercraft.frutter.Frutter
+api-version: '1.19'
+prefix: F!
+load: STARTUP
+authors: [ LenoYT ]
+description: A mod for FruitMC
+commands:
+  givesword:
+    description: Gives a Zeus sword with delay.
+    usage: /<command>
